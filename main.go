@@ -5,6 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, World!")
-	fmt.Println("Starting Test Again")
+	fmt.Println("Try Logout again")
 }
